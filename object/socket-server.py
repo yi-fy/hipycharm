@@ -10,7 +10,7 @@ s = socket.socket()
 s.bind(("127.0.0.1",8888))
 
 #等待客户端连接
-s.listen(6)
+s.listen(5)
 
 while True:
     # 建立客户端连接

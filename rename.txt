@@ -1,0 +1,6 @@
+GitHub修改默认分支名
+本地修改对应分支名（git branch -m 旧master 新main）
+拉取同步
+git branch -u origin/main main
+git remote set-head origin -a
+正常提交

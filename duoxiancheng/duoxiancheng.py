@@ -1,5 +1,3 @@
-# python基础代码练习
-# 2021/4/10 18:12
 #!/usr/bin/python3
 
 import threading
